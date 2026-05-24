@@ -1,0 +1,9 @@
+.env
+*.json
+!requirements.json
+__pycache__/
+*.pyc
+venv/
+.env/
+*.log
+.DS_Store
